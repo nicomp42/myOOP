@@ -2,13 +2,19 @@
 # Add an import statement for Vehicle class
 from vehiclePackage.vehicleClass import *
 from vehiclePackage.hybridClass import Hybrid
+
 from vehiclePackage.ElectricClass import Electric
+
+from vehiclePackage.hehehehehehe import *
+
 
 if __name__ == "__main__":
     # Instantiate an object of type Hybrid
     myPrius = Hybrid("Electric", "Toyota", "Prius", 220)  # Invoke the Hybrid class constructor
     # Invoke the printType method using the HJybrid object we just created
     myPrius.printType()
+    Hola= runMe()
+    print(Hola)
     
     
     '''
