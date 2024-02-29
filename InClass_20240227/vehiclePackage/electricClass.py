@@ -1,3 +1,4 @@
+
 # electricClass.py
 from vehiclePackage.Car import Car
 
@@ -8,3 +9,4 @@ class Electric(Car):
     def printBatteryMileage(self):
         print(self.batteryMileage);
     
+# electricClass.py
