@@ -2,6 +2,7 @@
 # Add an import statement for Vehicle class
 from vehiclePackage.vehicleClass import *
 from vehiclePackage.hybridClass import Hybrid
+from vehiclePackage.random import *
 
 if __name__ == "__main__":
     # Instantiate an object of type Hybrid
