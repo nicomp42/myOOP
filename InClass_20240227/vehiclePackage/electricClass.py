@@ -1,4 +1,9 @@
 
+#electric.py
+
+print("electric")
+
+
 from vehiclePackage.Car import Car;  
 
 class electic(Car):  # Hybrid  class inherits from Car class
@@ -20,4 +25,5 @@ class Electric(Car):
         print(self.batteryMileage);
     
 # electricClass.py
+
 
