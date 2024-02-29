@@ -2,6 +2,8 @@
 # Add an import statement for Vehicle class
 from vehiclePackage.vehicleClass import *
 from vehiclePackage.hybridClass import Hybrid
+
+from vehiclePackage.random import *
 from vehiclePackage.printClass import *
 
 from vehiclePackage.ElectricClass import Electric
